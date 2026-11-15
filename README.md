@@ -21,11 +21,11 @@ I'm the creator of **[Zubware](https://www.zubware.com/)**, a growing collection
 
 | Project | Purpose | Status |
 |---|---|---|
-| 📸 [OpenStep Studio](https://github.com/Zubairshaikh99/openstep-studio) | Create step-by-step guides from screenshots in your browser | **v0.1 prototype** |
+| 📸 [OpenStep Studio](https://github.com/Zubairshaikh99/openstep-studio) · [Live demo](https://zubairshaikh99.github.io/openstep-studio/) | Create step-by-step guides from screenshots in your browser | **v0.1 prototype** |
 | 🎬 CaptionForge | Free browser-based subtitle editor | Planned |
 | 🧾 WarrantyWallet | Offline-first receipt and warranty organizer | Planned |
 
-Each app is intended to have its **own independent repository**, documentation, and releases. I'll add working demo links when deployment is verified.
+Each app is intended to have its **own independent repository**, documentation, and releases. The OpenStep Studio GitHub Pages deployment workflow has succeeded; its public URL may take time to propagate. I'll add other demo links as each project is deployed.
 
 ## 🎥 Beyond coding
 
