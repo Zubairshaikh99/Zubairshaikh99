@@ -21,7 +21,7 @@ I'm the creator of **[Zubware](https://www.zubware.com/)**, a growing collection
 
 | Project | Purpose | Status |
 |---|---|---|
-| 🎞️ [ReelCode Studio](https://github.com/Zubairshaikh99/reelcode-studio) · [Live demo](https://zubairshaikh99.github.io/reelcode-studio/) | Free code-to-video animation studio with live editor and browser export | **v0.1 prototype** |
+| 🎞️ [ReelCode Studio](https://github.com/Zubairshaikh99/reelcode-studio) · [Live demo](https://zubairshaikh99.github.io/reelcode-studio/) | Code-to-video studio: offline WebM, captions, custom layers, AI prompt builder | **v0.2 beta** |
 | 📸 [OpenStep Studio](https://github.com/Zubairshaikh99/openstep-studio) · [Live demo](https://zubairshaikh99.github.io/openstep-studio/) | Create step-by-step guides from screenshots in your browser | **v0.1 prototype** |
 | 🎬 [CaptionForge](https://github.com/Zubairshaikh99/captionforge) · [Live demo](https://zubairshaikh99.github.io/captionforge/) | Free browser-based subtitle editor | **v0.1 prototype** |
 | 🧾 [WarrantyWallet](https://github.com/Zubairshaikh99/warrantywallet) · [Demo](https://zubairshaikh99.github.io/warrantywallet/) | Offline-first receipt and warranty organizer | **v0.1 prototype** |
