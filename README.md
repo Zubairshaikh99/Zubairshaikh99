@@ -1,89 +1,47 @@
-Hey, I'm Zubair Shaikh! 👋
+# Hi, I'm Zubair Shaikh! 👋
 
-🚀 Developer | 🎬 Content Creator | 🌍 Open-Source Enthusiast
+**Developer · Content Creator · Open-Source Builder**  
+🌍 India · Building useful technology for people everywhere
 
-I'm an independent developer and digital content creator from India, passionate about building useful technology and creating engaging digital experiences.
+I create free online tools, explore practical software ideas, and make digital content that helps people learn, create, and get things done.
 
-I build websites, free online tools, creative applications, and digital content for people around the world.
+## 🌐 Featured: [Zubware — Free Online Tools](https://www.zubware.com/)
 
-My mission: Make technology simpler, more useful, and accessible to everyone.
+I'm the creator of **[Zubware](https://www.zubware.com/)**, a growing collection of browser-based tools for everyday tasks:
 
----
-
-🌐 Featured Project — Zubware
-
-🚀 "Explore Zubware — Free Online Tools" (https://www.zubware.com/)
-
-I'm the creator of Zubware, a website offering hundreds of online tools to help people complete everyday digital tasks.
-
-Explore tools for:
-
-- 📄 PDF and document management
+- 📄 PDF and document tools
 - 🖼️ Image editing and optimization
-- 🧮 Calculators and everyday utilities
-- 🎬 Digital content creation
-- 💻 Developer and productivity tasks
-- 💼 Business and professional workflows
+- 🧮 Calculators and productivity utilities
+- 🎬 Content creation and creator tools
+- 💻 Developer and business utilities
 
-👉 "Visit Zubware.com" (https://www.zubware.com/)
+**👉 [Visit Zubware and explore the free tools](https://www.zubware.com/)**
 
----
+## 💻 Open-source projects
 
-💻 My Open-Source Projects
+| Project | Purpose | Status |
+|---|---|---|
+| 📸 [OpenStep Studio](https://github.com/Zubairshaikh99/openstep-studio) | Create step-by-step guides from screenshots in your browser | **v0.1 prototype** |
+| 🎬 CaptionForge | Free browser-based subtitle editor | Planned |
+| 🧾 WarrantyWallet | Offline-first receipt and warranty organizer | Planned |
 
-I'm building independent, free, open-source applications that anyone can use and contribute to.
+Each app is intended to have its **own independent repository**, documentation, and releases. I'll add working demo links when deployment is verified.
 
-Project| Description| Status
-📸 OpenStep Studio| Screenshot-to-tutorial maker| Planned
-🎬 CaptionForge| Browser-based subtitle editor| Planned
-🧾 WarrantyWallet| Receipt and warranty organizer| Planned
+## 🎥 Beyond coding
 
-Each application will have its own repository, documentation, and releases.
+I'm also a content creator interested in short-form video, visual storytelling, educational content, AI-assisted creative workflows, and useful technology for global audiences.
 
----
+## 🛠️ Tools and interests
 
-🎥 I'm Also a Content Creator
+**Web:** HTML, CSS, JavaScript, TypeScript, React  
+**Workflow:** Git, GitHub, Cloudflare  
+**Interests:** Open source, privacy-first tools, mobile-friendly apps, content creation
 
-Beyond coding, I love creating:
+## 🤝 Let's connect
 
-- Short-form videos and visual stories
-- Educational and informative content
-- AI-assisted creative projects
-- Technology-related content
-- Content for global audiences
+Feedback, ideas, bug reports and contributions are welcome.
 
-I enjoy bringing creativity and technology together.
+- 🌐 **Website:** [zubware.com](https://www.zubware.com/)
+- 💻 **Projects:** [My GitHub repositories](https://github.com/Zubairshaikh99?tab=repositories)
 
----
-
-🛠️ Technologies & Interests
-
-Web Development: HTML, CSS, JavaScript, TypeScript, React
-
-Platforms & Tools: Git, GitHub, Cloudflare
-
-Interests: Open Source, AI, Web Applications, Automation, Content Creation
-
----
-
-❤️ My Philosophy
-
-Build useful things. Keep learning. Share knowledge. Help others.
-
-I believe great software should be simple, accessible, and built with real people in mind.
-
----
-
-🤝 Let's Connect
-
-I'm open to feedback, creative ideas, and open-source collaboration.
-
-🌐 My Website: "Zubware.com" (https://www.zubware.com/)
-
-💻 GitHub: "Zubairshaikh99" (https://github.com/Zubairshaikh99)
-
-⭐ Follow my open-source journey and explore my projects!
-
----
-
-Building useful software, creating meaningful content, and sharing with the world. 🚀
+*Building useful things, one project at a time.* 🚀
