@@ -21,11 +21,12 @@ I'm the creator of **[Zubware](https://www.zubware.com/)**, a growing collection
 
 | Project | Purpose | Status |
 |---|---|---|
+| 🎞️ [ReelCode Studio](https://github.com/Zubairshaikh99/reelcode-studio) | Free code-to-video animation studio with live editor and browser export | **v0.1 prototype** |
 | 📸 [OpenStep Studio](https://github.com/Zubairshaikh99/openstep-studio) · [Live demo](https://zubairshaikh99.github.io/openstep-studio/) | Create step-by-step guides from screenshots in your browser | **v0.1 prototype** |
 | 🎬 [CaptionForge](https://github.com/Zubairshaikh99/captionforge) · [Live demo](https://zubairshaikh99.github.io/captionforge/) | Free browser-based subtitle editor | **v0.1 prototype** |
 | 🧾 [WarrantyWallet](https://github.com/Zubairshaikh99/warrantywallet) · [Demo](https://zubairshaikh99.github.io/warrantywallet/) | Offline-first receipt and warranty organizer | **v0.1 prototype** |
 
-Each app has its **own independent repository**, documentation, and GitHub Pages demo. All three v0.1 prototypes have passed automated checks and their deployment workflows.
+Each app has its **own independent repository** and documentation. OpenStep Studio, CaptionForge, and WarrantyWallet have successful GitHub Pages deployments. **ReelCode Studio** has passed automated tests; its public demo will be linked after Pages deployment is confirmed.
 
 ## 🎥 Beyond coding
 
